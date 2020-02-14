@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/GerardoRosas-27/nodeTensorFlow#readme",
   "dependencies": {
-    "@tensorflow/tfjs": "^1.5.2"
+    "@tensorflow/tfjs": "^1.5.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "johnny-five": "^1.4.0"
   }
 }
